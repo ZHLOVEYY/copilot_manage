@@ -1,3 +1,5 @@
+[English](./README.md) | [中文](./README_zh.md)
+
 # GitHub Rate Limit Dashboard
 
 A modern, visual dashboard to monitor your GitHub API rate limits with interactive tooltips and direct documentation links.

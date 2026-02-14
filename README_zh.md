@@ -1,3 +1,5 @@
+[English](./README.md) | [中文](./README_zh.md)
+
 # GitHub Rate Limit 仪表盘
 
 一个现代化的可视化仪表盘，用于监控您的 GitHub API 速率限制，带有交互式工具提示和直接文档链接。
